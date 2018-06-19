@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-publish_mode: editorial_workflow # enable interface for drafting, reviewing posts
+#publish_mode: editorial_workflow # enable interface for drafting, reviewing posts
 media_folder: "static/img" # store media files here
 public_folder: "static/img"
 collections:
