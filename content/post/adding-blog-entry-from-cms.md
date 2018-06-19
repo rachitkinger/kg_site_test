@@ -1,7 +1,7 @@
 ---
 title: adding blog entry from CMS
 date: '2018-06-19T06:39:35+01:00'
-draft: true
+draft: false
 categories:
   - test
 tags:
