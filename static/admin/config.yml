@@ -8,7 +8,7 @@ collections:
 
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
 
-    label: "Post" # Used in the UI
+    label: "Blog" # Used in the UI
 
     folder: "content/post" # The path to the folder where the documents are stored
 
